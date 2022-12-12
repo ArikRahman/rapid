@@ -6,8 +6,7 @@ A game engine written in Nim, optimized for making cool games fast.
 Made for convenience while coding and better performance than all-in-one
 solutions like Godot.
 
-**Note:** As of June 2021, I'm not longer actively working on rapid.
-Please fork the repository if you want to keep the project alive.
+**Note:** Up to date with the latest commits before the original rapid project was archived.
 
 ## Goals
 
